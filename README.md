@@ -1,7 +1,6 @@
-<img align="right" height="200"
+<img align="right" height="350"
     src="https://cdn-icons-png.freepik.com/512/7783/7783107.png">
-    
-<h1>DavoDev</h1>
+
 
 <p align="justify">HI! I am a student at Universidad Autónoma de Aguascalientes pursuing my goal of becoming a
     Software Engineer. Throughout my education, I have gained experience in various programming languages including C,
