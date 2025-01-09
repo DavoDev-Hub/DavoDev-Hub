@@ -18,4 +18,4 @@
 ---
 
 ### 🎨 Custom Illustration:
-![Illustration](https://via.placeholder.com/600x200) <!-- Cambia esto con tu ilustración -->
+![Illustration](https://ar.pinterest.com/pin/78813062213733311/) <!-- Cambia esto con tu ilustración -->
