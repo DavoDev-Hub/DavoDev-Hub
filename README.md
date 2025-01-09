@@ -8,4 +8,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil) 
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.instagram.com/tu-perfil) 
 ### ⚙️ GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavoDev-Hub&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavoDev-Hub&show_icons=true&theme=highcontrast)
