@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="110"
     src="https://cdn-icons-png.freepik.com/512/7783/7783107.png">
 
 <h1>DavoDev</h1>
