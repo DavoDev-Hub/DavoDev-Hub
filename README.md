@@ -9,9 +9,9 @@
 </p>
 
 ### 📱 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E31C25?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
-[![Facebook](https://img.shields.io/badge/Facebook-%23E31C25?style=flat-square&logo=facebook&logoColor=white)](https://www.instagram.com/tu-perfil)
-[![Discord](https://img.shields.io/badge/Discord-%23E31C25?style=flat-square&logo=discord&logoColor=white)](https://www.discord.com/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E31C25?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-jimenez-66a0662ba/)
+[![Facebook](https://img.shields.io/badge/Facebook-%23E31C25?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/juanpablo.jimenez.507027/)
+[![Discord](https://img.shields.io/badge/Discord-%23E31C25?style=flat-square&logo=discord&logoColor=white)](https://www.discord.com/davo0672)
 
 ### ⚙️ GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavoDev-Hub&show_icons=true&theme=onedark)
