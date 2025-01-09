@@ -7,8 +7,8 @@
 - 🎨 Passionate about programming, reading, and listening to music
 
 ### 📱 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-red?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil) 
-[![Facebook](https://img.shields.io/badge/Facebook-red?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tu-perfil) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-cian?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil) 
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tu-perfil) 
 
 ---
 
