@@ -1,11 +1,10 @@
-# 👋 Hello! I'm [Tu Nombre]
+# 👋 Hello! I'm Davo
 
 🌱 About Me:
-
-🎯 Aspiring Software Engineer
-💻 Currently learning JavaScript
-🔧 I have experience with C, Java, and Databases
-🎨 Passionate about programming, reading, and listening to music
+- 🎯 Aspiring Software Engineer
+- 💻 Currently learning JavaScript
+- 🔧 I have experience with C, Java, and Databases
+- 🎨 Passionate about programming, reading, and listening to music
 
 ### 📱 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-red?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil) 
