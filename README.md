@@ -1,4 +1,4 @@
-<img align="right" height="350"
+<img align="right" height="320"
     src="https://cdn-icons-png.freepik.com/512/7783/7783107.png">
 
 ### **DavoDev**
