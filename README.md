@@ -11,5 +11,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white)](https://www.instagram.com/tu-perfil) 
 ---
 ### ⚙️ GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavoDev-Hub&show_icons=true&theme=dracula)
 ---
