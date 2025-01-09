@@ -1,5 +1,6 @@
 
-
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
+    src="https://cdn-icons-png.freepik.com/512/7783/7783107.png">
 <h1>DavoDev</h1>
 <p align="justify">HI! I am a student at Universidad Autónoma de Aguascalientes pursuing my goal of becoming a
     Software Engineer. Throughout my education, I have gained experience in various programming languages including C,
@@ -7,8 +8,6 @@
     enjoy two major hobbies: reading and listening to music.
 </p>
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
-    src="https://cdn-icons-png.freepik.com/512/7783/7783107.png">
 
 ### 📱 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E31C25?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil)
