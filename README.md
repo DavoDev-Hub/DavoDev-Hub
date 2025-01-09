@@ -1,5 +1,5 @@
-<img align="right" height="380"
-    src="https://cdn-icons-png.freepik.com/256/5742/5742016.png">
+<img align="right" height="380" margin-top="10px"
+    src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
 <h1>DavoDev</h1>
 
