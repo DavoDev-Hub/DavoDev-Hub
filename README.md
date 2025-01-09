@@ -13,5 +13,3 @@
 ### ⚙️ GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
 ---
-### 🎨 Custom Illustration:
-![Illustration](https://via.placeholder.com/600x200) <!-- Cambia esto con tu ilustración -->
