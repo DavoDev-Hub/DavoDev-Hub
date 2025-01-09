@@ -1,4 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380"
+<img align="right" height="380"
     src="https://cdn-icons-png.freepik.com/512/15854/15854205.png">
 
 <h1>
