@@ -22,7 +22,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavoDev-Hub&show_icons=true&theme=onedark)
 
 <details align="left">
-    <summary></summary>
+    <summary>
 
     - Badges by <a href="https://shields.io/">shields.io</a><br>
     - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
@@ -30,5 +30,5 @@
     (edited by author)
 
     <div align="right"> 🕷️🕸️ <a href="https://github.com/DavoDev-Hub"></a></div>
-
+</summary>
 </details>
