@@ -2,7 +2,7 @@
     src="https://cdn-icons-png.freepik.com/512/15854/15854205.png">
 
 <h1>
-    <span>DavoDev</span>
+DavoDev
 </h1>
 
 <p align="justify">HI! I am a student at Universidad Autónoma de Aguascalientes pursuing my goal of becoming a
