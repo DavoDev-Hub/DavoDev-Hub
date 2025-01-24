@@ -16,7 +16,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavoDev-Hub&show_icons=true&theme=onedark)
 
 
-Skills
+### Skills: 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
 <img src="https://img.shields.io/badge/JavaScript-21232A?logo=javascript&logoColor=red" height="28" alt="JavaScript" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/C++-21232A?logo=javascript&logoColor=red" height="28" alt="JavaScript" style="margin-right: 4px"> 
