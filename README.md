@@ -15,6 +15,7 @@
 ### GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavoDev-Hub&show_icons=true&theme=onedark)
 
+/*
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
 <img src="https://img.shields.io/badge/JavaScript-21232A?logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/TypeScript-21232A?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> 
@@ -30,3 +31,4 @@
 <img src="https://img.shields.io/badge/Figma-21232A?logo=figma&logoColor=white" height="28" alt="Figma" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Postman-21232A?logo=postman&logoColor=white" height="28" alt="Postman" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-21232A?logo=visual-studio-code&logoColor=white" height="28" alt="Visual Studio Code" style="margin-right: 4px"></div>
+*/
