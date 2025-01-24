@@ -18,13 +18,15 @@
 
 ### Skills: 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://shields.io/badge/JavaScript-%23E31C25?logo=JavaScript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px;">
-  <img src="https://img.shields.io/badge/C++-%23E31C25?style=flat-square&logoColor=white" height="28" alt="C++" style="margin-right: 4px;">
-  <img src="https://img.shields.io/badge/Java-%23E31C25?style=for-the-badge&logoColor=white" height="28" alt="Java" style="margin-right: 4px;">
-  <img src="https://img.shields.io/badge/CSS-%23E31C25?&style=for-the-badge&logoColor=white" height="28" alt="CSS" style="margin-right: 4px;">
-  <img src="https://img.shields.io/badge/MySQL-%23E31C25?style=for-the-badge&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px;">
-  <img src="https://img.shields.io/badge/Vim-%23E31C25?style=for-the-badge&logo=vim" height="28" alt="Vim" style="margin-right: 4px;">
+  <img src="https://img.shields.io/badge/JavaScript-%23E31C25?style=for-the-badge&logo=javascript&logoColor=white" height="28" alt="JavaScript" style="margin-right: 4px;">
+  <img src="https://img.shields.io/badge/C++-%23E31C25?style=for-the-badge&logo=cplusplus&logoColor=white" height="28" alt="C++" style="margin-right: 4px;">
+  <img src="https://img.shields.io/badge/Java-%23E31C25?style=for-the-badge&logo=java&logoColor=white" height="28" alt="Java" style="margin-right: 4px;">
+  <img src="https://img.shields.io/badge/CSS-%23E31C25?style=for-the-badge&logo=css3&logoColor=white" height="28" alt="CSS" style="margin-right: 4px;">
+  <img src="https://img.shields.io/badge/MySQL-%23E31C25?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="MySQL" style="margin-right: 4px;">
+  <img src="https://img.shields.io/badge/Vim-%23E31C25?style=for-the-badge&logo=vim&logoColor=white" height="28" alt="Vim" style="margin-right: 4px;">
 </div>
+
+
 
 <!-- 
 <img src="https://img.shields.io/badge/TypeScript-21232A?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> 
