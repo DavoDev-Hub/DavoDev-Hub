@@ -19,7 +19,7 @@
 ### Skills: 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
 <img src="https://img.shields.io/badge/JavaScript-21232A?logo=javascript&logoColor=yellow" height="28" alt="JavaScript" style="margin-right: 4px"> 
-<img src="https://img.shields.io/badge/C++-21232A?logo=C++&logoColor=blue" height="28" alt="C++" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/C++-21232A?logo=c++&logoColor=blue" height="28" alt="C++" style="margin-right: 4px"> 
 
 </div>
 <!-- 
