@@ -18,12 +18,12 @@
 
 ### Skills: 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" height="28" alt="JavaScript" style="margin-right: 4px"> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 4px"> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="java" style="margin-right: 4px">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="28" alt="css" style="margin-right: 4px">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="css" style="margin-right: 4px">
-<img src="https://img.shields.io/badge/Vim-Editor-3b883b?style=for-the-badge&logo=vim" height="28" alt="css" style="margin-right: 4px">
+<img src="https://shields.io/badge/JavaScript-23E31C25?logo=JavaScript&logoColor=000&style=flat-square" height="28" alt="JavaScript" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/C++-23E31C25?style=flat-square&logo=C%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 4px"> 
+<img src="https://img.shields.io/badge/Java-23E31C25?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="java" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/CSS-23E31C25?&style=for-the-badge&logo=css3&logoColor=white" height="28" alt="css" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/MySQL-23E31C25?style=for-the-badge&logo=mysql&logoColor=white" height="28" alt="css" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Vim-Editor-23E31C25?style=for-the-badge&logo=vim" height="28" alt="css" style="margin-right: 4px">
 </div>
 <!-- 
 <img src="https://img.shields.io/badge/TypeScript-21232A?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> 
