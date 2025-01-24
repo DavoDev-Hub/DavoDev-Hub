@@ -22,6 +22,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" height="28" alt="C++" style="margin-right: 4px"> 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="28" alt="java" style="margin-right: 4px">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" height="28" alt="css" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/Vim-Editor-3b883b?style=for-the-badge&logo=vim" height="28" alt="css" style="margin-right: 4px">
 </div>
 <!-- 
 <img src="https://img.shields.io/badge/TypeScript-21232A?logo=typescript&logoColor=white" height="28" alt="TypeScript" style="margin-right: 4px"> 
