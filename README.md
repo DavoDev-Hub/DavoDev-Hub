@@ -4,7 +4,7 @@
 <p align="justify">HI! I am a student at Universidad Autónoma de Aguascalientes pursuing my goal of becoming a
     Software Engineer. Throughout my education, I have gained experience in various programming languages including C, C++,
     Java, and JavaScript, as well as database management (mySql, Oracle). I am passionate about programming, and in my free time, I
-    enjoy two major hobbies: reading and listening to music :).
+    enjoy two major hobbies: reading and listening to music.
 </p>
 
 ### Connect with me:
